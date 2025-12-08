@@ -89,7 +89,6 @@ print(m5)
 print(f"My favorite number is： {m5.pop(0)}")
 print(m5)
     # 根据值进行删除   remove()
-
 print("____________________________")
 m6 = [215, 5645, 3, 223, 565]
 
@@ -98,6 +97,13 @@ m6.remove(215)
 print(m6)
 
 
+
+# 动手试一试
+# 练习
+# 3-4 嘉宾名单：
+
+dinner = ['a', 'b', 'c', 'd']
+print(dinner)
 
 
 
